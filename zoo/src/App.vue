@@ -4,6 +4,7 @@ import UkolOdpocitavadlo from './components/UkolOdpocitavadlo.vue';
 import ComputedPromenna from './components/ComputedPromenna.vue';
 import DirektivaOn from "./components/DirektivaOn.vue";
 import DirektivaBind from "./components/DirektivaBind.vue";
+import DirektivaShowIf from "./components/DirektivaShowIf.vue";
 </script>
 
 <template>
@@ -30,8 +31,10 @@ import DirektivaBind from "./components/DirektivaBind.vue";
     <div class="karta">
       <DirektivaBind />
     </div>
-    
-    
+
+    <div class="karta">
+      <DirektivaShowIf />
+    </div>
 
   </div>
   </template>

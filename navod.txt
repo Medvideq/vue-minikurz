@@ -132,3 +132,7 @@ Done. Now run:
 //pokud se jedna o atribut disabled, checked nebo selected (atributy, ktere jsou singlove bez hodnoty), tak se do "" dava booleanovska hodnota
 //pokud je boolean true, tak se atrbitu vypise jinak se vynecha
 // :disabled="booleanPromenna"
+
+//6 hodinovy tutorial na zakladni funkce Vue
+https://www.youtube.com/watch?v=I_xLMmNeLDY
+
